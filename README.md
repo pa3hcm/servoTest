@@ -16,6 +16,7 @@ Circuit
 
 This amazing ASCII art shows the circuit of the Servo Tester:
 
+```schema
 .---------.
 | Arduino |
 |       D3|---------------------------------------.  .-.
@@ -40,4 +41,4 @@ This amazing ASCII art shows the circuit of the Servo Tester:
 |       5V|---------------|           |==| 16x2    |
 |      Gnd|---------------|           |==|         |
 `---------'               `-----------'  `---------'
-
+```
