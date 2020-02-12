@@ -3,7 +3,7 @@ servoTest
 
 This is a simple device to test and/or set small servo's, like the SG90
 or the MG996R. I built it for a robotics project involving lots of
-servo's that had to be aligned during construction.
+servo's that had to be aligned during assembly.
 
 The device consists of an Arduino, a 5V servo power supply, a 16x2 LCD
 display and a potentiometer. The potmeter allows you to set the angle,
